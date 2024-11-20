@@ -6,7 +6,7 @@ This repository contains a complete implementation of a spam email classificatio
  - Exploratory Data Analysis (EDA): Visualizes dataset properties, such as feature distributions and relationships.
  - Logistic Regression: Implements and evaluates a classification model with high precision and recall.
  - Feature Selection: Reduces the number of features using Recursive Feature Elimination (RFE) for better model performance.
- - 
+
 ### Key Results
 Accuracy: 92%
 Precision and Recall: Both metrics are high, especially for the spam class.
